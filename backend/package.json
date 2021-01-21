@@ -1,0 +1,15 @@
+{
+  "name": "oneshot_assignment",
+  "version": "1.0.0",
+  "description": "oneshot internship assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/navaleshubham/oneshot_assignment.git"
+  },
+  "author": "Shubham Navale",
+  "license": "ISC"
+}
